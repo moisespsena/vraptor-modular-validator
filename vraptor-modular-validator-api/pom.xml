@@ -4,11 +4,11 @@
 	<parent>
 		<groupId>com.moisespsena.vraptor</groupId>
 		<artifactId>vraptor-modular-validator</artifactId>
-		<version>1.0</version>
+		<version>1.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.moisespsena.vraptor</groupId>
 	<artifactId>vraptor-modular-validator-api</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<description>API para validação integrada com ResourceBundle de aplicações modulares</description>
 	<packaging>jar</packaging>
 	<name>VRaptor Modular Validator API</name>

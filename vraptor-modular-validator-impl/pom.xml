@@ -4,11 +4,11 @@
 	<parent>
 		<groupId>com.moisespsena.vraptor</groupId>
 		<artifactId>vraptor-modular-validator</artifactId>
-		<version>1.0</version>
+		<version>1.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.moisespsena.vraptor</groupId>
 	<artifactId>vraptor-modular-validator-impl</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Default VRaptor Modular Validator Implementation</name>
 	<description>Implementação default para o Bean Validation baseado em ResourceBundle de aplicações modulares baseadas no VRaptor</description>
